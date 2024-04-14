@@ -16,8 +16,19 @@ export default function Navbar(){
     return(
         <AppBar position="static">
             <Toolbar>
-                <Typography>LOGO</Typography>
-                <Button color="warning">LOGIN</Button>
+                <Typography variant="h1" sx={{
+                    fontFamily: "Poppins",
+                    fontWeight: "700",
+                    fontSize: "2rem"
+                }}>LOGO</Typography>
+
+                <Box>
+
+                </Box>
+
+                <Button color="warning" sx={{
+                    marginLeft: "auto"
+                }}>LOGIN</Button>
             </Toolbar>
         </AppBar>
     );
