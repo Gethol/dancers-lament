@@ -7,6 +7,10 @@ import Theme from './theme/Theme';
 import { Centered } from './components/Centered';
 import Form from './components/Form';
 import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import { Container } from '@mui/material';
+import Footer from './components/Footer';
+import About from './components/About';
 
 
 function App() {
@@ -18,8 +22,14 @@ function App() {
       <Form/>
     </Centered> 
      */}
-        
-    <Navbar/>
+    <Container>
+      <Navbar/>
+      <Hero />
+      <About/>
+      <Footer/>
+
+    </Container>
+
     </Theme>
   
   );
