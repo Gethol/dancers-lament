@@ -38,7 +38,9 @@ export default function About(){
                 >
                     <CardContent>
                     <Typography variant="h5">Connect with Friends</Typography>
-                    <Typography variant="body2"></Typography>
+                    <Typography variant="body2">
+                    Share your musical adventures with friends. Simply share your profile link and compare your top tracks, sparking friendly debates and revealing your shared musical tastes.
+                    </Typography>
                     </CardContent>
                 </Card>
                
