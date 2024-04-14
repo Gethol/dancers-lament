@@ -16,8 +16,8 @@ export default function Hero(){
             }}>Dancers Lament</Typography>
             <Typography variant="body1"  sx ={{
                 textAlign: 'center'
-            }}>Lorem ipsum dolor sit amet consectetur
-             adipisicing elit. Porro expedita cum beatae assumenda corporis aliquid architecto est! Eligendi, vero! Sunt repudiandae voluptates saepe ea ut doloribus ullam nemo mollitia velit.</Typography>
+            }}>Dive deeper into your music taste with Dancer's Lament! This companion app for Spotify unlocks insights on your listening habits. See your top artists, songs, and genres across any timeframe, and discover hidden trends in your music library.
+            </Typography>
             <Box>
                 {/* <Button variant =""></Button> */}
             </Box>
